@@ -64,23 +64,7 @@ The Radar Intercept Dashboard simulates real-time radar operations to detect, tr
 
 ---
 
-## 📂 Project Structure
-```bash
-├── radar_intercept_dashboard/
-│   ├── radar_simulation/
-│   ├── trajectory_analysis/
-│   ├── interception_logic/
-│   └── control_panel/
-│
-├── mayuri_threat_detection/
-│   ├── drone_control/
-│   ├── human_detection/
-│   ├── weapon_detection/
-│   └── threat_analysis/
-│
-├── docs/
-├── assets/
-└── README.md
+
 
 ## 👥 Contributors
 - @SHREE-PRAVEEN  
